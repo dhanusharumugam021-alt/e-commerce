@@ -862,7 +862,7 @@ h1{
         display: block;
         justify-content: center;
         align-items: center;
-        padding-left: 100px;
+        padding-left: 120px;
     }
     .feature-card img{
         width:150px;
@@ -945,6 +945,10 @@ h1{
     .hero-side{
         display: none;
     }
+    .mobile-hero-banner-head button{
+        margin: auto 50%;
+     
+}
 
    
 }
@@ -1166,7 +1170,7 @@ h1{
     .payment i{
         text-align: center;
          
-    
+    .
     }
     .mobile-hero-banner-head button{
         margin: auto 40%;
